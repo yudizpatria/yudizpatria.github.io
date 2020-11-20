@@ -309,13 +309,13 @@ Version:	1.0
 	.slicknav_menu .slicknav_icon-bar {
 		display: block;
 		width: 25px;
-		height: 3px;
+		height: 7px;
 		-webkit-border-radius: 1px;
 		-moz-border-radius: 1px;
 		border-radius: 1px;
-		-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .25);
-		-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, .25);
-		box-shadow: 0 1px 0 rgba(0, 0, 0, .25);
+		-webkit-box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
+		-moz-box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
+		box-shadow: 0 3px 0 rgba(0, 0, 0, .25);
 	}
 
 	.site-header .main-menu {
